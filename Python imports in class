@@ -1,0 +1,4 @@
+When two modules are imported,
+and both the modules have the same functions,
+and if you call _that_ function,
+the result would be of that function that was initialised last.
